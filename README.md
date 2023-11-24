@@ -19,4 +19,4 @@ Tarefas (funcional)
 Considerações finais
 ---------------
 
-Agradecemos por participar do teste e por demonstrar suas habilidades técnicas em JavaScript. Para dar continuidade ao processo de avaliação, solicitamos que envie o link do repositório contendo suas soluções para o avaliador. Certifique-se de que o repositório esteja configurado para acesso público ou que o avaliador tenha as permissões necessárias para visualizar o código. Inclua qualquer informação adicional relevante no README, como instruções de execução, se aplicável. Estamos ansiosos para revisar suas contribuições e entraremos em contato em breve.
+Agradecemos por participar do teste e por demonstrar suas habilidades técnicas em JavaScript. Para dar continuidade ao processo de avaliação, solicitamos que envie o link do repositório contendo suas soluções para o avaliador. Certifique-se de que o repositório esteja configurado para acesso público ou que o avaliador tenha as permissões necessárias para visualizar o código. Inclua qualquer informação adicional relevante no README, como instruções de execução, se aplicável.
